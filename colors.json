@@ -1,0 +1,1730 @@
+[
+	{
+		"english": "AliceBlue",
+		"german": "Eisfarben",
+		"spanish": "Azul Alicia",
+		"french": "Bleu Alicia",
+		"hex": "#F0F8FF",
+		"rgb": [
+			240,
+			248,
+			255
+		]
+	},
+	{
+		"english": "AntiqueWhite",
+		"german": "Antikweiß",
+		"spanish": "Blanco Antigua",
+		"french": "Vieux Blanc",
+		"hex": "#FAEBD7",
+		"rgb": [
+			250,
+			235,
+			215
+		]
+	},
+	{
+		"english": "Aqua",
+		"german": "Wasser",
+		"spanish": "Agua",
+		"french": "Aqua",
+		"hex": "#00FFFF",
+		"rgb": [
+			0,
+			255,
+			255
+		]
+	},
+	{
+		"english": "Aquamarine",
+		"german": "Aquamarinblau",
+		"spanish": "Aguamarina",
+		"french": "Aigue-Marine",
+		"hex": "#7FFFD4",
+		"rgb": [
+			127,
+			255,
+			212
+		]
+	},
+	{
+		"english": "Azure",
+		"german": "Himmelblau",
+		"spanish": "Azul Cielo",
+		"french": "Bleu Ciel",
+		"hex": "#F0FFFF",
+		"rgb": [
+			240,
+			255,
+			255
+		]
+	},
+	{
+		"english": "Beige",
+		"german": "Beige",
+		"spanish": "Beige",
+		"french": "Beige",
+		"hex": "#F5F5DC",
+		"rgb": [
+			245,
+			245,
+			220
+		]
+	},
+	{
+		"english": "Bisque",
+		"german": "Biskuit",
+		"spanish": "Bisque",
+		"french": "Bisque",
+		"hex": "#FFE4C4",
+		"rgb": [
+			255,
+			228,
+			196
+		]
+	},
+	{
+		"english": "Black",
+		"german": "Schwarz",
+		"spanish": "Negro",
+		"french": "Noir",
+		"hex": "#000000",
+		"rgb": [
+			0,
+			0,
+			0
+		]
+	},
+	{
+		"english": "Blanchedal- mond",
+		"german": "Mandelweiß",
+		"spanish": "Almendra Pálido",
+		"french": "Amande Pâle",
+		"hex": "#FFEBCD",
+		"rgb": [
+			255,
+			235,
+			205
+		]
+	},
+	{
+		"english": "Blue",
+		"german": "Blau",
+		"spanish": "Azul",
+		"french": "Bleu",
+		"hex": "#0000FF",
+		"rgb": [
+			0,
+			0,
+			255
+		]
+	},
+	{
+		"english": "Blueviolet",
+		"german": "Blauviolett",
+		"spanish": "Violeta Azul",
+		"french": "Bleu Violet",
+		"hex": "#8A2BE2",
+		"rgb": [
+			138,
+			43,
+			226
+		]
+	},
+	{
+		"english": "Brown",
+		"german": "Braun",
+		"spanish": "Marrón",
+		"french": "Marron",
+		"hex": "#A52A2A",
+		"rgb": [
+			165,
+			42,
+			42
+		]
+	},
+	{
+		"english": "Burlywood",
+		"german": "Gelbbraun",
+		"spanish": "Madera",
+		"french": "Bois",
+		"hex": "#DEB887",
+		"rgb": [
+			222,
+			184,
+			135
+		]
+	},
+	{
+		"english": "CadetBlue",
+		"german": "Kadettenblau",
+		"spanish": "Azul Cadete",
+		"french": "Bleu Cadet",
+		"hex": "#5F9EA0",
+		"rgb": [
+			95,
+			158,
+			160
+		]
+	},
+	{
+		"english": "Chartreuse",
+		"german": "Hellgrün",
+		"spanish": "Chartreuse",
+		"french": "Chartreuse",
+		"hex": "#7FFF00",
+		"rgb": [
+			127,
+			255,
+			0
+		]
+	},
+	{
+		"english": "Chocolate",
+		"german": "Schokolade",
+		"spanish": "Chocolate",
+		"french": "Chocolat",
+		"hex": "#D2691E",
+		"rgb": [
+			210,
+			105,
+			30
+		]
+	},
+	{
+		"english": "Coral",
+		"german": "Koralle",
+		"spanish": "Coral",
+		"french": "Corail",
+		"hex": "#FF7F50",
+		"rgb": [
+			255,
+			127,
+			80
+		]
+	},
+	{
+		"english": "CornflowerBlue",
+		"german": "Kornblumenblau",
+		"spanish": "Azul Aciano",
+		"french": "Bleuet",
+		"hex": "#6495ED",
+		"rgb": [
+			100,
+			149,
+			237
+		]
+	},
+	{
+		"english": "Cornsilk",
+		"german": "Mais",
+		"spanish": "Maíz",
+		"french": "Corn",
+		"hex": "#FFF8DC",
+		"rgb": [
+			255,
+			248,
+			220
+		]
+	},
+	{
+		"english": "Crimson",
+		"german": "Karmesinrot",
+		"spanish": "Carmesi",
+		"french": "Cramoisi",
+		"hex": "#DC143C",
+		"rgb": [
+			220,
+			20,
+			60
+		]
+	},
+	{
+		"english": "Cyan",
+		"german": "Türkis",
+		"spanish": "Cian",
+		"french": "Cyan",
+		"hex": "#00FFFF",
+		"rgb": [
+			0,
+			255,
+			255
+		]
+	},
+	{
+		"english": "DarkBlue",
+		"german": "Dunkelblau",
+		"spanish": "Azul Oscuro",
+		"french": "Bleu Foncé",
+		"hex": "#00008B",
+		"rgb": [
+			0,
+			0,
+			139
+		]
+	},
+	{
+		"english": "DarkCyan",
+		"german": "Dunkeltürkis",
+		"spanish": "Turquesa Oscuro",
+		"french": "Turquoise Foncé",
+		"hex": "#008B8B",
+		"rgb": [
+			0,
+			139,
+			139
+		]
+	},
+	{
+		"english": "DarkGoldenrod",
+		"german": "Dunkle Goldrutenfarbe",
+		"spanish": "Vara de Oro Oscura",
+		"french": "Verge d'or Sombre",
+		"hex": "#B8860B",
+		"rgb": [
+			184,
+			134,
+			11
+		]
+	},
+	{
+		"english": "DarkGreen",
+		"german": "Dunkelgrün",
+		"spanish": "Verde Oscuro",
+		"french": "Vert Foncé",
+		"hex": "#006400",
+		"rgb": [
+			0,
+			100,
+			0
+		]
+	},
+	{
+		"english": "DarkGrey",
+		"german": "Dunkelgrau",
+		"spanish": "Gris Oscuro",
+		"french": "Gris Foncé",
+		"hex": "#A9A9A9",
+		"rgb": [
+			169,
+			169,
+			169
+		]
+	},
+	{
+		"english": "DarkKhaki",
+		"german": "Dunkelkhaki",
+		"spanish": "Caqui Oscuro",
+		"french": "Kaki Foncé",
+		"hex": "#BDB76B",
+		"rgb": [
+			189,
+			183,
+			107
+		]
+	},
+	{
+		"english": "DarkMagenta",
+		"german": "Dunkelmagenta",
+		"spanish": "Magenta Oscura",
+		"french": "Magenta Foncé",
+		"hex": "#8B008B",
+		"rgb": [
+			139,
+			0,
+			139
+		]
+	},
+	{
+		"english": "DarkOliveGreen",
+		"german": "Dunkles Olivgrün",
+		"spanish": "Verde Oliva Oscuro",
+		"french": "Vert Olive Foncé",
+		"hex": "#556B2F",
+		"rgb": [
+			85,
+			107,
+			47
+		]
+	},
+	{
+		"english": "DarkOrange",
+		"german": "Dunkles Orange",
+		"spanish": "Naranja Oscura",
+		"french": "Orange Foncé",
+		"hex": "#FF8C00",
+		"rgb": [
+			255,
+			140,
+			0
+		]
+	},
+	{
+		"english": "DarkOrchid",
+		"german": "Dunkle Orchidee",
+		"spanish": "Orquidea Oscura",
+		"french": "Orchidée Noire",
+		"hex": "#9932CC",
+		"rgb": [
+			153,
+			50,
+			204
+		]
+	},
+	{
+		"english": "DarkRed",
+		"german": "Dunkelrot",
+		"spanish": "Rojo Oscura",
+		"french": "Rouge Noire",
+		"hex": "#8B0000",
+		"rgb": [
+			139,
+			0,
+			0
+		]
+	},
+	{
+		"english": "DarkSalmon",
+		"german": "Dunkle Lachsfarbe",
+		"spanish": "Salmón Oscuro",
+		"french": "Saumon Foncé",
+		"hex": "#E9967A",
+		"rgb": [
+			233,
+			150,
+			122
+		]
+	},
+	{
+		"english": "DarkSeaGreen",
+		"german": "Dunkles Seegrün",
+		"spanish": "Oscuro mar Verde",
+		"french": "Mer Vert foncé",
+		"hex": "#8FBC8F",
+		"rgb": [
+			143,
+			188,
+			143
+		]
+	},
+	{
+		"english": "DarkSlateBlue",
+		"german": "Dunkles Schieferblau",
+		"spanish": "Azul Pizarra Oscuro",
+		"french": "Bleu Ardoise Foncé",
+		"hex": "#483D8B",
+		"rgb": [
+			72,
+			61,
+			139
+		]
+	},
+	{
+		"english": "DarkSlateYellow",
+		"german": "Dunkles Schiefergrau",
+		"spanish": "Gris Pizarra Oscuro",
+		"french": "Gris Ardoise Foncé",
+		"hex": "#2F4F4F",
+		"rgb": [
+			47,
+			79,
+			79
+		]
+	},
+	{
+		"english": "DarkTurquoise",
+		"german": "Dunkeltürkis",
+		"spanish": "Turquesa Oscuro",
+		"french": "Turquoise Foncé",
+		"hex": "#00CED1",
+		"rgb": [
+			0,
+			206,
+			209
+		]
+	},
+	{
+		"english": "DarkViolet",
+		"german": "Dunkelvilolett",
+		"spanish": "Púrpura Oscuro",
+		"french": "Violet Foncé",
+		"hex": "#9400D3",
+		"rgb": [
+			148,
+			0,
+			211
+		]
+	},
+	{
+		"english": "DeepPink",
+		"german": "Tiefrosa",
+		"spanish": "Rosa Profundo",
+		"french": "Rose Profond",
+		"hex": "#FF1493",
+		"rgb": [
+			255,
+			20,
+			147
+		]
+	},
+	{
+		"english": "DeepSkyBlue",
+		"german": "Tiefes Himmelblau",
+		"spanish": "Cielo Azul Profundo",
+		"french": "Bleu Ciel Profond",
+		"hex": "#00BFFF",
+		"rgb": [
+			0,
+			191,
+			255
+		]
+	},
+	{
+		"english": "DimGrey",
+		"german": "Dunkelgrau",
+		"spanish": "Gris Oscuro",
+		"french": "Gris Foncé",
+		"hex": "#696969",
+		"rgb": [
+			105,
+			105,
+			105
+		]
+	},
+	{
+		"english": "DodgerBlue",
+		"german": "Persenningblau",
+		"spanish": "Cubierta Azul",
+		"french": "Couverture Bleu",
+		"hex": "#1E90FF",
+		"rgb": [
+			30,
+			144,
+			255
+		]
+	},
+	{
+		"english": "Firebrick",
+		"german": "Backstein",
+		"spanish": "Ladrillo Refractario",
+		"french": "Brique Réfractaire",
+		"hex": "#B22222",
+		"rgb": [
+			178,
+			34,
+			34
+		]
+	},
+	{
+		"english": "FloralWhite",
+		"german": "Blütenweiß",
+		"spanish": "Blanco Floral",
+		"french": "Blanc Floral",
+		"hex": "#FFFAF0",
+		"rgb": [
+			255,
+			250,
+			240
+		]
+	},
+	{
+		"english": "ForestGreen",
+		"german": "Waldgrün",
+		"spanish": "Verde Bosque",
+		"french": "Vert Forêt",
+		"hex": "#228B22",
+		"rgb": [
+			34,
+			139,
+			34
+		]
+	},
+	{
+		"english": "Fuchsia",
+		"german": "Fuchsia",
+		"spanish": "Fucsia",
+		"french": "Fuchsia",
+		"hex": "#FF00FF",
+		"rgb": [
+			255,
+			0,
+			255
+		]
+	},
+	{
+		"english": "Gainsboro",
+		"german": "Gainsboro",
+		"spanish": "Gainsboro",
+		"french": "Gainsboro",
+		"hex": "#DCDCDC",
+		"rgb": [
+			220,
+			220,
+			220
+		]
+	},
+	{
+		"english": "GhostWhite",
+		"german": "Geisterweiß",
+		"spanish": "Fantasma Blanco",
+		"french": "Blanc Fantôme",
+		"hex": "#F8F8FF",
+		"rgb": [
+			248,
+			248,
+			255
+		]
+	},
+	{
+		"english": "Gold",
+		"german": "Gold",
+		"spanish": "Oro",
+		"french": "Or",
+		"hex": "#FFD700",
+		"rgb": [
+			255,
+			215,
+			0
+		]
+	},
+	{
+		"english": "Goldenrod",
+		"german": "Goldrute",
+		"spanish": "Solidago",
+		"french": "Solidago",
+		"hex": "#DAA520",
+		"rgb": [
+			218,
+			165,
+			32
+		]
+	},
+	{
+		"english": "Gray",
+		"german": "Grau",
+		"spanish": "Gris",
+		"french": "Gris",
+		"hex": "#808080",
+		"rgb": [
+			128,
+			128,
+			128
+		]
+	},
+	{
+		"english": "Green",
+		"german": "Grün",
+		"spanish": "Verde",
+		"french": "Vert",
+		"hex": "#008000",
+		"rgb": [
+			0,
+			128,
+			0
+		]
+	},
+	{
+		"english": "GreenYellow",
+		"german": "Grüngelb",
+		"spanish": "Verde Amarillo",
+		"french": "Vert Jaune",
+		"hex": "#ADFF2F",
+		"rgb": [
+			173,
+			255,
+			47
+		]
+	},
+	{
+		"english": "Grey",
+		"german": "Grau",
+		"spanish": "Gris",
+		"french": "Gris",
+		"hex": "#808080",
+		"rgb": [
+			128,
+			128,
+			128
+		]
+	},
+	{
+		"english": "Honeydew",
+		"german": "Honigmelone",
+		"spanish": "Ambrosía",
+		"french": "Ambroisie",
+		"hex": "#F0FFF0",
+		"rgb": [
+			240,
+			255,
+			240
+		]
+	},
+	{
+		"english": "HotPink",
+		"german": "Leuchtendes Rosa",
+		"spanish": "Rosa Brillante",
+		"french": "Rose Brillant",
+		"hex": "#FF69B4",
+		"rgb": [
+			255,
+			105,
+			180
+		]
+	},
+	{
+		"english": "IndianRed",
+		"german": "Indischrot",
+		"spanish": "Rojo Indio",
+		"french": "Rouge Indien",
+		"hex": "#CD5C5C",
+		"rgb": [
+			205,
+			92,
+			92
+		]
+	},
+	{
+		"english": "Indigo",
+		"german": "Indigo",
+		"spanish": "Índigo",
+		"french": "Indigo",
+		"hex": "#4B0082",
+		"rgb": [
+			75,
+			0,
+			130
+		]
+	},
+	{
+		"english": "Ivory",
+		"german": "Elfenbein",
+		"spanish": "Marfil",
+		"french": "Ivoire",
+		"hex": "#FFFFF0",
+		"rgb": [
+			255,
+			255,
+			240
+		]
+	},
+	{
+		"english": "Khaki",
+		"german": "Staubfarben",
+		"spanish": "Caqui",
+		"french": "Kaki",
+		"hex": "#F0E68C",
+		"rgb": [
+			240,
+			230,
+			140
+		]
+	},
+	{
+		"english": "Lavender",
+		"german": "Lavendel",
+		"spanish": "Lavanda",
+		"french": "Lavande",
+		"hex": "#E6E6FA",
+		"rgb": [
+			230,
+			230,
+			250
+		]
+	},
+	{
+		"english": "LavenderBlush",
+		"german": "Lavendelrosa",
+		"spanish": "Rosa Lavanda",
+		"french": "Rose Lavande",
+		"hex": "#FFF0F5",
+		"rgb": [
+			255,
+			240,
+			245
+		]
+	},
+	{
+		"english": "LawnGreen",
+		"german": "Rasengrün",
+		"spanish": "Verde Césped",
+		"french": "Vert Pelouse",
+		"hex": "#7CFC00",
+		"rgb": [
+			124,
+			252,
+			0
+		]
+	},
+	{
+		"english": "Lemonchiffon",
+		"german": "Chiffongelb",
+		"spanish": "Gasa Amarilla",
+		"french": "Mousseline Jaune",
+		"hex": "#FFFACD",
+		"rgb": [
+			255,
+			250,
+			205
+		]
+	},
+	{
+		"english": "LightBlue",
+		"german": "Hellblau",
+		"spanish": "Azul Luz",
+		"french": "Bleue Lumière",
+		"hex": "#ADD8E6",
+		"rgb": [
+			173,
+			216,
+			230
+		]
+	},
+	{
+		"english": "LightCoral",
+		"german": "Helles Korallenrot",
+		"spanish": "Rojo Coral Brillante",
+		"french": "Rouge Corail Vif",
+		"hex": "#F08080",
+		"rgb": [
+			240,
+			128,
+			128
+		]
+	},
+	{
+		"english": "LightCyan",
+		"german": "Helles Cyan",
+		"spanish": "Cian Luz",
+		"french": "Cyan Clair",
+		"hex": "#E0FFFF",
+		"rgb": [
+			224,
+			255,
+			255
+		]
+	},
+	{
+		"english": "Light Goldenrod Yellow",
+		"german": "Helles Goldrutengelb",
+		"spanish": "Amarillo Dorado Claro",
+		"french": "Jaune Clair",
+		"hex": "#FAFAD2",
+		"rgb": [
+			250,
+			250,
+			210
+		]
+	},
+	{
+		"english": "LightGray",
+		"german": "Hellgrau",
+		"spanish": "Gris Claro",
+		"french": "Gris Clair",
+		"hex": "#D3D3D3",
+		"rgb": [
+			211,
+			211,
+			211
+		]
+	},
+	{
+		"english": "LightGreen",
+		"german": "Hellgrün",
+		"spanish": "Verde Claro",
+		"french": "Vert Clair",
+		"hex": "#90EE90",
+		"rgb": [
+			144,
+			238,
+			144
+		]
+	},
+	{
+		"english": "LightGrey",
+		"german": "Hellgrau",
+		"spanish": "Gris Claro",
+		"french": "Cris Clair",
+		"hex": "#D3D3D3",
+		"rgb": [
+			211,
+			211,
+			211
+		]
+	},
+	{
+		"english": "LightPink",
+		"german": "Hellrosa",
+		"spanish": "Rosa Claro",
+		"french": "Rose Clair",
+		"hex": "#FFB6C1",
+		"rgb": [
+			255,
+			182,
+			193
+		]
+	},
+	{
+		"english": "LightSalmon",
+		"german": "Helle Lachsfarbe",
+		"spanish": "Salmón Claro",
+		"french": "Saumon Clair",
+		"hex": "#FFA07A",
+		"rgb": [
+			255,
+			160,
+			122
+		]
+	},
+	{
+		"english": "LightSeaGreen",
+		"german": "Helles Seegrün",
+		"spanish": "Verde Mar Claro",
+		"french": "Vert Mer Clair",
+		"hex": "#20B2AA",
+		"rgb": [
+			32,
+			178,
+			170
+		]
+	},
+	{
+		"english": "LightSkyBlue",
+		"german": "Helles Himmelblau",
+		"spanish": "Cielo Azul Brillante",
+		"french": "Ciel Bleu Clair",
+		"hex": "#87CEFA",
+		"rgb": [
+			135,
+			206,
+			250
+		]
+	},
+	{
+		"english": "LightSlateGrey",
+		"german": "Helles Schiefergrau",
+		"spanish": "Gris Pizarra Brillante",
+		"french": "Gris Ardoise Brillant",
+		"hex": "#778899",
+		"rgb": [
+			119,
+			136,
+			153
+		]
+	},
+	{
+		"english": "LightSteelBlue",
+		"german": "Helles Stahlblau",
+		"spanish": "Azul Acero Brillante",
+		"french": "Bleu Acier Brillant",
+		"hex": "#B0C4DE",
+		"rgb": [
+			176,
+			196,
+			222
+		]
+	},
+	{
+		"english": "LightYellow",
+		"german": "Hellgelb",
+		"spanish": "Amarillo Claro",
+		"french": "Jaune Clair",
+		"hex": "#FFFFE0",
+		"rgb": [
+			255,
+			255,
+			224
+		]
+	},
+	{
+		"english": "Lime",
+		"german": "Limone",
+		"spanish": "Lima",
+		"french": "Citron",
+		"hex": "#00FF00",
+		"rgb": [
+			0,
+			255,
+			0
+		]
+	},
+	{
+		"english": "LimeGreen",
+		"german": "Limonengrün",
+		"spanish": "Verde Lima",
+		"french": "Vert Citron",
+		"hex": "#32CD32",
+		"rgb": [
+			50,
+			205,
+			50
+		]
+	},
+	{
+		"english": "Linen",
+		"german": "Leinen",
+		"spanish": "Lino",
+		"french": "Lin",
+		"hex": "#FAF0E6",
+		"rgb": [
+			250,
+			240,
+			230
+		]
+	},
+	{
+		"english": "Magenta",
+		"german": "Magenta",
+		"spanish": "Magenta",
+		"french": "Magenta",
+		"hex": "#FF00FF",
+		"rgb": [
+			255,
+			0,
+			255
+		]
+	},
+	{
+		"english": "Maroon",
+		"german": "Kastanie",
+		"spanish": "Granate",
+		"french": "Marron",
+		"hex": "#800000",
+		"rgb": [
+			128,
+			0,
+			0
+		]
+	},
+	{
+		"english": "Maroon",
+		"german": "Kastanie",
+		"spanish": "Granate",
+		"french": "Bordeaux",
+		"hex": "#800000",
+		"rgb": [
+			128,
+			0,
+			0
+		]
+	},
+	{
+		"english": "Medium Aquamarine",
+		"german": "Mittleres Aquamarin",
+		"spanish": "Aguamarina Mediana",
+		"french": "Aigue-Marine Moyenne",
+		"hex": "#66CDAA",
+		"rgb": [
+			102,
+			205,
+			170
+		]
+	},
+	{
+		"english": "Medium Blue",
+		"german": "Mittleres Blau",
+		"spanish": "Azul Medio",
+		"french": "Bleu Moyen",
+		"hex": "#0000CD",
+		"rgb": [
+			0,
+			0,
+			205
+		]
+	},
+	{
+		"english": "Medium Orchid",
+		"german": "Mittlere Orchidee",
+		"spanish": "Orquidea Media",
+		"french": "Orchidée Moyenne",
+		"hex": "#BA55D3",
+		"rgb": [
+			186,
+			85,
+			211
+		]
+	},
+	{
+		"english": "Medium Purple",
+		"german": "Mittleres Violett",
+		"spanish": "Púrpura Medio",
+		"french": "Violet Moyen",
+		"hex": "#9370DB",
+		"rgb": [
+			147,
+			112,
+			219
+		]
+	},
+	{
+		"english": "Medium SeaGreen",
+		"german": "Mittleres Seegrün",
+		"spanish": "Mar Verde Medio",
+		"french": "Vert de Mer Moyen",
+		"hex": "#3CB371",
+		"rgb": [
+			60,
+			179,
+			113
+		]
+	},
+	{
+		"english": "Medium SlateBlue",
+		"german": "Mittleres Schieferblau",
+		"spanish": "Azul Pizarra Mediana",
+		"french": "Bleu Ardoise Moyenne",
+		"hex": "#7B68EE",
+		"rgb": [
+			123,
+			104,
+			238
+		]
+	},
+	{
+		"english": "Medium SpringGreen",
+		"german": "Mittleres Frühlingsgrün",
+		"spanish": "Verde Primavera Mediana",
+		"french": "Vert de Printemps Moyen",
+		"hex": "#00FA9A",
+		"rgb": [
+			0,
+			250,
+			154
+		]
+	},
+	{
+		"english": "Medium Turquoise",
+		"german": "Mittlere Türkis",
+		"spanish": "Turquesa Medio",
+		"french": "Turquoise Moyen",
+		"hex": "#48D1CC",
+		"rgb": [
+			72,
+			209,
+			204
+		]
+	},
+	{
+		"english": "Medium VioletRed",
+		"german": "Mittleres Violettrot",
+		"spanish": "Rojo Púrpura Medio",
+		"french": "Rouge Pourpre Moyen",
+		"hex": "#C71585",
+		"rgb": [
+			199,
+			21,
+			133
+		]
+	},
+	{
+		"english": "MidnightBlue",
+		"german": "Mitternachtsblau",
+		"spanish": "Azul Medianoche",
+		"french": "Bleue Minuit",
+		"hex": "#191970",
+		"rgb": [
+			25,
+			25,
+			112
+		]
+	},
+	{
+		"english": "Mintcream",
+		"german": "Cremige Minze",
+		"spanish": "Menta Cremosa",
+		"french": "Menthe Crémeuse",
+		"hex": "#F5FFFA",
+		"rgb": [
+			245,
+			255,
+			250
+		]
+	},
+	{
+		"english": "Mistyrose",
+		"german": "Altrosa",
+		"spanish": "Rojo Viejo",
+		"french": "Vieux Rose",
+		"hex": "#FFE4E1",
+		"rgb": [
+			255,
+			228,
+			225
+		]
+	},
+	{
+		"english": "Moccasin",
+		"german": "Mokassin",
+		"spanish": "Mocassin",
+		"french": "Mocassin",
+		"hex": "#FFE4B5",
+		"rgb": [
+			255,
+			228,
+			181
+		]
+	},
+	{
+		"english": "NavajoWhite",
+		"german": "Navajoweiß",
+		"spanish": "Blanco Navajo",
+		"french": "Blanc Navajo",
+		"hex": "#FFDEAD",
+		"rgb": [
+			255,
+			222,
+			173
+		]
+	},
+	{
+		"english": "Navy",
+		"german": "Marinenblau",
+		"spanish": "Azul Marino",
+		"french": "Bleu Marine",
+		"hex": "#000080",
+		"rgb": [
+			0,
+			0,
+			128
+		]
+	},
+	{
+		"english": "Oldlace",
+		"german": "Alte Spitze",
+		"spanish": "Encaje Viejo",
+		"french": "Vieille Dentelle",
+		"hex": "#FDF5E6",
+		"rgb": [
+			253,
+			245,
+			230
+		]
+	},
+	{
+		"english": "Olive",
+		"german": "Olivgrün",
+		"spanish": "Verde Oliva",
+		"french": "Jaune Olive",
+		"hex": "#808000",
+		"rgb": [
+			128,
+			128,
+			0
+		]
+	},
+	{
+		"english": "Olivedrab",
+		"german": "Olivgraubraun",
+		"spanish": "Gris Oliva Marrón",
+		"french": "Olive Gris Brun",
+		"hex": "#6B8E23",
+		"rgb": [
+			107,
+			142,
+			35
+		]
+	},
+	{
+		"english": "Orange",
+		"german": "Orange",
+		"spanish": "Naranja",
+		"french": "Orange",
+		"hex": "#FFA500",
+		"rgb": [
+			255,
+			165,
+			0
+		]
+	},
+	{
+		"english": "OrangeRed",
+		"german": "Orangerot",
+		"spanish": "Rojo Anaranjado",
+		"french": "Rouge Orange",
+		"hex": "#FF4500",
+		"rgb": [
+			255,
+			69,
+			0
+		]
+	},
+	{
+		"english": "Orchid",
+		"german": "Orchidee",
+		"spanish": "Orquídea",
+		"french": "Orchidée",
+		"hex": "#DA70D6",
+		"rgb": [
+			218,
+			112,
+			214
+		]
+	},
+	{
+		"english": "PaleGoldenrod",
+		"german": "Blasse Goldrutenfarbe",
+		"spanish": "Vara de Oro Pálida",
+		"french": "Verge d'Or Pâle",
+		"hex": "#EEE8AA",
+		"rgb": [
+			238,
+			232,
+			170
+		]
+	},
+	{
+		"english": "PaleGreen",
+		"german": "Blassgrün",
+		"spanish": "Verde Pálido",
+		"french": "Vert Pâle",
+		"hex": "#98FB98",
+		"rgb": [
+			152,
+			251,
+			152
+		]
+	},
+	{
+		"english": "PaleTurquoise",
+		"german": "Blasstürkis",
+		"spanish": "Turquesa Pálido",
+		"french": "Turquoise Pâle",
+		"hex": "#AFEEEE",
+		"rgb": [
+			175,
+			238,
+			238
+		]
+	},
+	{
+		"english": "PaleVioletRed",
+		"german": "Blasses Violettrot",
+		"spanish": "Rojo Violeta Pálido",
+		"french": "Violet Rouge Pâle",
+		"hex": "#DB7093",
+		"rgb": [
+			219,
+			112,
+			147
+		]
+	},
+	{
+		"english": "Papayawhip",
+		"german": "Papayacreme",
+		"spanish": "Crema de Papaya",
+		"french": "Crème de Papaye",
+		"hex": "#FFEFD5",
+		"rgb": [
+			255,
+			239,
+			213
+		]
+	},
+	{
+		"english": "Peachpuff",
+		"german": "Pfirsich",
+		"spanish": "Melocotón",
+		"french": "Pêche",
+		"hex": "#FFDAB9",
+		"rgb": [
+			255,
+			218,
+			185
+		]
+	},
+	{
+		"english": "Peru",
+		"german": "Peru",
+		"spanish": "Perú",
+		"french": "Pérou",
+		"hex": "#CD853F",
+		"rgb": [
+			205,
+			133,
+			63
+		]
+	},
+	{
+		"english": "Pink",
+		"german": "Rosa",
+		"spanish": "Rosa",
+		"french": "Rose",
+		"hex": "#FFC0CB",
+		"rgb": [
+			255,
+			192,
+			203
+		]
+	},
+	{
+		"english": "Plum",
+		"german": "Pflaume",
+		"spanish": "Ciruela",
+		"french": "Prune",
+		"hex": "#DDA0DD",
+		"rgb": [
+			221,
+			160,
+			221
+		]
+	},
+	{
+		"english": "PowderBlue",
+		"german": "Taubenblau",
+		"spanish": "Azul Palomas",
+		"french": "Bleu de Pigeons",
+		"hex": "#B0E0E6",
+		"rgb": [
+			176,
+			224,
+			230
+		]
+	},
+	{
+		"english": "Purple",
+		"german": "Purpur",
+		"spanish": "Púrpura",
+		"french": "Pourpre",
+		"hex": "#800080",
+		"rgb": [
+			128,
+			0,
+			128
+		]
+	},
+	{
+		"english": "Purple",
+		"german": "Purpur",
+		"spanish": "Púrpura",
+		"french": "Violet",
+		"hex": "#800080",
+		"rgb": [
+			128,
+			0,
+			128
+		]
+	},
+	{
+		"english": "Red",
+		"german": "Rot",
+		"spanish": "Rojo",
+		"french": "Rouge",
+		"hex": "#FF0000",
+		"rgb": [
+			255,
+			0,
+			0
+		]
+	},
+	{
+		"english": "RosyBrown",
+		"german": "Rosiges Braun",
+		"spanish": "Marrón Rosado",
+		"french": "Brun Rosé",
+		"hex": "#BC8F8F",
+		"rgb": [
+			188,
+			143,
+			143
+		]
+	},
+	{
+		"english": "RoyalBlue",
+		"german": "Königsbalu",
+		"spanish": "Azul Real",
+		"french": "Bleu Royal",
+		"hex": "#4169E1",
+		"rgb": [
+			65,
+			105,
+			225
+		]
+	},
+	{
+		"english": "SaddleBrown",
+		"german": "Sattelbraun",
+		"spanish": "Marrón Ensillar",
+		"french": "Brune Selle",
+		"hex": "#8B4513",
+		"rgb": [
+			139,
+			69,
+			19
+		]
+	},
+	{
+		"english": "Salmon",
+		"german": "Lachsfarben",
+		"spanish": "Salmón",
+		"french": "Saumon",
+		"hex": "#FA8072",
+		"rgb": [
+			250,
+			128,
+			114
+		]
+	},
+	{
+		"english": "SandyBrown",
+		"german": "Sandbraun",
+		"spanish": "Marrón Arena",
+		"french": "Brun Sable",
+		"hex": "#F4A460",
+		"rgb": [
+			244,
+			164,
+			96
+		]
+	},
+	{
+		"english": "SeaGreen",
+		"german": "Seegrün",
+		"spanish": "Verde Lago",
+		"french": "Vert Lac",
+		"hex": "#2E8B57",
+		"rgb": [
+			46,
+			139,
+			87
+		]
+	},
+	{
+		"english": "Seashell",
+		"german": "Muschel",
+		"spanish": "Concha",
+		"french": "Coquillage",
+		"hex": "#FFF5EE",
+		"rgb": [
+			255,
+			245,
+			238
+		]
+	},
+	{
+		"english": "Sienna",
+		"german": "Siennaerde",
+		"spanish": "Tierra de Siena",
+		"french": "Terre de Sienne",
+		"hex": "#A0522D",
+		"rgb": [
+			160,
+			82,
+			45
+		]
+	},
+	{
+		"english": "Silver",
+		"german": "Silber",
+		"spanish": "Plata",
+		"french": "Argent",
+		"hex": "#C0C0C0",
+		"rgb": [
+			192,
+			192,
+			192
+		]
+	},
+	{
+		"english": "SkyBlue",
+		"german": "Himmelblau",
+		"spanish": "Cielo Azul",
+		"french": "Bleu Ciel",
+		"hex": "#87CEEB",
+		"rgb": [
+			135,
+			206,
+			235
+		]
+	},
+	{
+		"english": "SlateBlue",
+		"german": "Schieferblau",
+		"spanish": "Azul Pizarra",
+		"french": "Bleu Ardoise",
+		"hex": "#6A5ACD",
+		"rgb": [
+			106,
+			90,
+			205
+		]
+	},
+	{
+		"english": "SlateGrey",
+		"german": "Schiefergrau",
+		"spanish": "Gris Pizarra",
+		"french": "Gris Ardoise",
+		"hex": "#708090",
+		"rgb": [
+			112,
+			128,
+			144
+		]
+	},
+	{
+		"english": "Snow",
+		"german": "Schneeweiß",
+		"spanish": "Blanco Nieve",
+		"french": "Blanc Neige",
+		"hex": "#FFFAFA",
+		"rgb": [
+			255,
+			250,
+			250
+		]
+	},
+	{
+		"english": "SpringGreen",
+		"german": "Frühlingsgrün",
+		"spanish": "Verde del Resorte",
+		"french": "Vert Printemps",
+		"hex": "#00FF7F",
+		"rgb": [
+			0,
+			255,
+			127
+		]
+	},
+	{
+		"english": "SteelBlue",
+		"german": "Stahlblau",
+		"spanish": "Azul de Acero",
+		"french": "Bleu Acier",
+		"hex": "#4682B4",
+		"rgb": [
+			70,
+			130,
+			180
+		]
+	},
+	{
+		"english": "Tan",
+		"german": "Hautfarben",
+		"spanish": "Bronceado",
+		"french": "Tanné",
+		"hex": "#D2B48C",
+		"rgb": [
+			210,
+			180,
+			140
+		]
+	},
+	{
+		"english": "Teal",
+		"german": "Krickentengrün",
+		"spanish": "Verde Azulado",
+		"french": "Sarcelle",
+		"hex": "#008080",
+		"rgb": [
+			0,
+			128,
+			128
+		]
+	},
+	{
+		"english": "Thistle",
+		"german": "Distel",
+		"spanish": "Cardo",
+		"french": "Chardon",
+		"hex": "#D8BFD8",
+		"rgb": [
+			216,
+			191,
+			216
+		]
+	},
+	{
+		"english": "Tomato",
+		"german": "Tomate",
+		"spanish": "Tomate",
+		"french": "Tomate",
+		"hex": "#FF6347",
+		"rgb": [
+			255,
+			99,
+			71
+		]
+	},
+	{
+		"english": "Turquoise",
+		"german": "Türkis",
+		"spanish": "Turquesa",
+		"french": "Turquoise",
+		"hex": "#40E0D0",
+		"rgb": [
+			64,
+			224,
+			208
+		]
+	},
+	{
+		"english": "Violet",
+		"german": "Veilchen",
+		"spanish": "Violeta",
+		"french": "Violet",
+		"hex": "#EE82EE",
+		"rgb": [
+			238,
+			130,
+			238
+		]
+	},
+	{
+		"english": "Wheat",
+		"german": "Weizen",
+		"spanish": "Trigo",
+		"french": "Blé",
+		"hex": "#F5DEB3",
+		"rgb": [
+			245,
+			222,
+			179
+		]
+	},
+	{
+		"english": "White",
+		"german": "Weiß",
+		"spanish": "Blanco",
+		"french": "Blanc",
+		"hex": "#FFFFFF",
+		"rgb": [
+			255,
+			255,
+			255
+		]
+	},
+	{
+		"english": "WhiteSmoke",
+		"german": "Rauchfarben",
+		"spanish": "Blanco Humo",
+		"french": "Blanche Fumée",
+		"hex": "#F5F5F5",
+		"rgb": [
+			245,
+			245,
+			245
+		]
+	},
+	{
+		"english": "Yellow",
+		"german": "Gelb",
+		"spanish": "Amarillo",
+		"french": "Jaune",
+		"hex": "#FFFF00",
+		"rgb": [
+			255,
+			255,
+			0
+		]
+	},
+	{
+		"english": "YellowGreen",
+		"german": "Gelbgrün",
+		"spanish": "Verde Amarillo",
+		"french": "Vert Jaune",
+		"hex": "#9ACD32",
+		"rgb": [
+			154,
+			205,
+			50
+		]
+	}
+]
